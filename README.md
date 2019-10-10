@@ -1,7 +1,7 @@
 # Bot-O-Meme
 
 A Discord bot written in Python to show memes in every given number of minutes
-using the [PRAW Reddit API](https://github.com/praw-dev/praw) and deployed in Heroku
+using the awesome [PRAW Reddit API](https://github.com/praw-dev/praw) and deployed in Heroku
 Also has different commands
 <br></br>
 ## Commands
